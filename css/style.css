@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+html,body{
+    font-family:'ヒラギノ角ゴ Pro W3','Hiragino kaku Gothic Pro','メイリオ','Meiryo','MS Pゴシック','MS PGothic',sans-serif;
+}
+
+#contWrap {
+    background-color:#FF9900;
+}
+#name {
+    width:15%;
+}
+h1 {
+    color:white;
+}
+
