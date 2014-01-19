@@ -9,8 +9,23 @@ html,body{
 }
 #name {
     width:100%;
+
+}
+.center {
+    position: rerative;
+    margin-top: 20%;
+    margin-left: 20%;
+    top: 50%;
+    left: 50%;
+}
+.btn-center {
+    position: rerative;
+    margin-top: 0%;
+    margin-left: 35%;
+    top: 50%;
+    left: 50%;
 }
 h1 {
-    color:white;
+    color:black;
 }
 
